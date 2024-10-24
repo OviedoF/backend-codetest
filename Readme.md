@@ -1,0 +1,1 @@
+RUN THE PROJECT WITH: node --watch app.js
